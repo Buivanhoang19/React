@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "586f",
+      "name": "Sản phẩm 1",
+      "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+      "price": "1000000"
+    },
+    {
+      "name": "Sản phẩm 2 edit dsfsdafads",
+      "image": "sdfasfas",
+      "price": "121212",
+      "id": "bc7e"
+    },
+    {
+      "name": "cập nhật 3",
+      "image": "sdfdsfs",
+      "price": "2342342",
+      "id": "0b66"
+    },
+    {
+      "id": "f1cd",
+      "name": "dsfsd dsafadsfads dsfadsfas",
+      "image": "sdfdsfs",
+      "price": "2342342"
+    },
+    {
+      "id": "d1b3",
+      "name": "dfsafsafasdf",
+      "image": "sdafasfadsf",
+      "price": "4234234"
+    },
+    {
+      "id": "c758",
+      "name": "dfsafsafasdf 324234",
+      "image": "sdafasfadsf",
+      "price": "4234234"
+    }
+  ]
+}
